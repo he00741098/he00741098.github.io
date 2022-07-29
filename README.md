@@ -2,7 +2,7 @@
 
 # This is a amazing website
 
-# <a src="https://www.youtube.com/channel/UC2g71CRkkiHyjUIKW7JsMWw">Yt channel</a>
+# <a src="https://www.youtube.com/channel/UC2g71CRkkiHyjUIKW7JsMWw">Yt channel: https://www.youtube.com/channel/UC2g71CRkkiHyjUIKW7JsMWw</a>
 
 # Pictures:
 <img src="server.png">
