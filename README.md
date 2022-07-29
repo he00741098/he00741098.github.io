@@ -1,10 +1,8 @@
-# he00741098 is a absolute chad
-he is cool
-yay
-epic
-give me your money
-please
-I need more
-# MORE
+# CW SMP
+
+# This is a amazing website
+
+# <a src="https://www.youtube.com/channel/UC2g71CRkkiHyjUIKW7JsMWw>Yt channel</a>
+
 # Pictures:
 <img src="server.png">
